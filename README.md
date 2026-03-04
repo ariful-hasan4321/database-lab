@@ -10,7 +10,7 @@ This project demonstrates basic SQL database tasks including:
 - Applying ALTER operations
 - Renaming tables
 
-**Course:** CSE210 – Database Management System  
+**Course:** CSE210 – Database Lab 
 **Section:** 242D3  
 **Lab:** Lab Report 01 – Constraints & ALTER
 
